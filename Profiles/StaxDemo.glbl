@@ -39,4 +39,9 @@
       <initValue>'asd'</initValue>
       <name>ConsultantPwd</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ds'</initValue>
+      <name>Cash</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
