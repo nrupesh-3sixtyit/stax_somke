@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Page</description>
+   <name>Login-Stax</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2dca52a-7baf-49de-90ed-dcfecb7826ff</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.URL</defaultValue>
+      <description></description>
+      <id>740ad2c6-33d1-4d9c-9589-92847e407202</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.AdminLogin</defaultValue>
+      <description></description>
+      <id>e4c20a06-219f-461a-b780-0c4658507cda</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.AdminPwd</defaultValue>
+      <description></description>
+      <id>6c96b68f-a0ef-450f-b119-239f2771daf7</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
